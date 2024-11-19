@@ -8,7 +8,7 @@ errors that are obvious while others take more attention.
 
 ## Phase 1: Debug the HTML
 
-Once you have downloaded the starter, open the __index.html__ file in your
+Once you have downloaded the starter, open the **index.html** file in your
 browser.
 
 You will notice that the page is blank on your browsers. This is due to a bug
